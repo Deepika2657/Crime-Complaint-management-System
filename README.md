@@ -229,9 +229,10 @@ A Full Stack Crime Complaint Management System developed using Flask and MySQL f
 
 
 
-##By
+   ##By
 
 * KASTALA DEEPIKA
+
 To run a **Flask project**, you need:
 
 * Python installed
@@ -245,7 +246,7 @@ To run a **Flask project**, you need:
 
 ## 1. Install Python
 
-Download from:
+ Download from:
 
 [Python Official Website](https://www.python.org/downloads/?utm_source=chatgpt.com)
 
