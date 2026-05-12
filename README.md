@@ -236,9 +236,7 @@ To run a **Flask project**, you need:
 
 
 
-
-
-# Step-by-Step Run Flask Project
+##Step-by-Step Run Flask Project
 
 
 ## 1. Install Python
@@ -252,7 +250,7 @@ To run a **Flask project**, you need:
 
 ---
 
-# 2. Install VS Code
+## 2. Install VS Code
 
   Download:
 
@@ -264,7 +262,7 @@ To run a **Flask project**, you need:
 
 ---
 
-# 3. Open Project Folder
+##3.Open Project Folder
 
     Example project:
 
