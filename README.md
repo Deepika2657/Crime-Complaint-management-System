@@ -240,41 +240,42 @@ To run a **Flask project**, you need:
 
 # Step-by-Step Run Flask Project
 
+
 ## 1. Install Python
 
-Download from:
+  Download from:
 
-[Python Official Website](https://www.python.org/downloads/?utm_source=chatgpt.com)
+  [Python Official Website](https://www.python.org/downloads/?utm_source=chatgpt.com)
 
-While installing:
-✔ Check **“Add Python to PATH”**
+   While installing:
+  ✔ Check **“Add Python to PATH”**
 
 ---
 
 # 2. Install VS Code
 
-Download:
+  Download:
 
-[Visual Studio Code](https://code.visualstudio.com/?utm_source=chatgpt.com)
+  [Visual Studio Code](https://code.visualstudio.com/?utm_source=chatgpt.com)
 
-Install:
+  Install:
 
-* Python extension in VS Code
+  * Python extension in VS Code
 
 ---
 
 # 3. Open Project Folder
 
-Example project:
+    Example project:
 
-```text
-crime_project/
-│
-├── app.py
-├── database.py
-├── templates/
-├── static/
-```
+    ```text
+  crime_project/
+   │
+   ├── app.py
+   ├── database.py
+   ├── templates/
+   ├── static/
+   ```
 
 Open this folder in VS Code.
 
