@@ -233,7 +233,10 @@ To run a **Flask project**, you need:
 * Terminal / Command Prompt
 * VS Code or PyCharm (recommended)
 
----
+
+
+
+
 
 # Step-by-Step Run Flask Project
 
