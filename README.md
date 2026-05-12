@@ -226,6 +226,12 @@ A Full Stack Crime Complaint Management System developed using Flask and MySQL f
 10. Users track complaint status using Complaint ID and receive updates from the system.
 
 
+
+
+
+##By
+
+* KASTALA DEEPIKA
 To run a **Flask project**, you need:
 
 * Python installed
@@ -233,47 +239,45 @@ To run a **Flask project**, you need:
 * Terminal / Command Prompt
 * VS Code or PyCharm (recommended)
 
+---
 
-
-
-##Step-by-Step Run Flask Project
-
+# Step-by-Step Run Flask Project
 
 ## 1. Install Python
 
-  Download from:
+Download from:
 
-  [Python Official Website](https://www.python.org/downloads/?utm_source=chatgpt.com)
+[Python Official Website](https://www.python.org/downloads/?utm_source=chatgpt.com)
 
-   While installing:
-  ✔ Check **“Add Python to PATH”**
-
----
-
-## 2. Install VS Code
-
-  Download:
-
-  [Visual Studio Code](https://code.visualstudio.com/?utm_source=chatgpt.com)
-
-  Install:
-
-  * Python extension in VS Code
+While installing:
+✔ Check **“Add Python to PATH”**
 
 ---
 
-##3.Open Project Folder
+# 2. Install VS Code
 
-    Example project:
+Download:
 
-    ```text
-  crime_project/
-   │
-   ├── app.py
-   ├── database.py
-   ├── templates/
-   ├── static/
-   ```
+[Visual Studio Code](https://code.visualstudio.com/?utm_source=chatgpt.com)
+
+Install:
+
+* Python extension in VS Code
+
+---
+
+# 3. Open Project Folder
+
+Example project:
+
+```text
+crime_project/
+│
+├── app.py
+├── database.py
+├── templates/
+├── static/
+```
 
 Open this folder in VS Code.
 
@@ -395,9 +399,5 @@ Then open:
 http://127.0.0.1:5000
 ```
 
-
-##By
-
-* KASTALA DEEPIKA
 
 
