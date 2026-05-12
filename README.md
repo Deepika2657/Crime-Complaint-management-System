@@ -197,11 +197,6 @@ When case is closed:
 
 ---
 
-# Resume Description
-
-
-Developed a Crime Complaint Management System using HTML, CSS, JavaScript, Flask, and MySQL to enable online complaint registration, complaint tracking, admin management, and secure database handling.
-```
 
 ---
 
@@ -229,6 +224,175 @@ A Full Stack Crime Complaint Management System developed using Flask and MySQL f
 9. Admin views complaints, assigns department teams, and updates complaint status.
 
 10. Users track complaint status using Complaint ID and receive updates from the system.
+
+
+To run a **Flask project**, you need:
+
+* Python installed
+* Flask library installed
+* Terminal / Command Prompt
+* VS Code or PyCharm (recommended)
+
+---
+
+# Step-by-Step Run Flask Project
+
+## 1. Install Python
+
+Download from:
+
+[Python Official Website](https://www.python.org/downloads/?utm_source=chatgpt.com)
+
+While installing:
+✔ Check **“Add Python to PATH”**
+
+---
+
+# 2. Install VS Code
+
+Download:
+
+[Visual Studio Code](https://code.visualstudio.com/?utm_source=chatgpt.com)
+
+Install:
+
+* Python extension in VS Code
+
+---
+
+# 3. Open Project Folder
+
+Example project:
+
+```text
+crime_project/
+│
+├── app.py
+├── database.py
+├── templates/
+├── static/
+```
+
+Open this folder in VS Code.
+
+---
+
+# 4. Open Terminal
+
+In VS Code:
+
+```text
+Terminal → New Terminal
+```
+
+Shortcut:
+
+```text
+Ctrl + `
+```
+
+---
+
+# 5. Install Flask
+
+In terminal run:
+
+```bash
+pip install flask
+```
+
+---
+
+# 6. Create Database
+
+Run:
+
+```bash
+python database.py
+```
+
+Output:
+
+```text
+Database Created
+```
+
+---
+
+# 7. Run Flask App
+
+Run:
+
+```bash
+python app.py
+```
+
+Output:
+
+```text
+* Running on http://127.0.0.1:5000
+```
+
+---
+
+# 8. Open Browser
+
+Open:
+
+```text
+http://127.0.0.1:5000
+```
+
+Now your website runs.
+
+---
+
+# Where Flask Runs
+
+| Component      | Runs Where    |
+| -------------- | ------------- |
+| HTML/CSS/JS    | Browser       |
+| Flask (Python) | Local Server  |
+| SQLite         | Database File |
+
+---
+
+# Technologies Needed
+
+| Purpose  | Software       |
+| -------- | -------------- |
+| Backend  | Python + Flask |
+| Editor   | VS Code        |
+| Browser  | Chrome         |
+| Database | SQLite         |
+
+---
+
+# Important Flask Files
+
+| Folder/File | Purpose         |
+| ----------- | --------------- |
+| app.py      | Main backend    |
+| templates   | HTML pages      |
+| static      | CSS & JS        |
+| database.db | SQLite database |
+
+---
+
+# Flask Run Command Summary
+
+```bash
+pip install flask
+python database.py
+python app.py
+```
+
+Then open:
+
+```text
+http://127.0.0.1:5000
+```
+
 
 ##By
 
