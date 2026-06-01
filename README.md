@@ -18,6 +18,18 @@ A Full Stack web-based application developed to simplify and manage crime compla
 * Complaint Status Updates
 * Secure Authentication System
 * MySQL Database Integration
+  <img width="955" height="551" alt="image" src="https://github.com/user-attachments/assets/f05978c1-3758-4141-aaa9-5aebca33ce35" />
+  <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/762fac29-8f93-414a-b581-a7cffe7c6cf8" />
+  <img width="975" height="501" alt="image" src="https://github.com/user-attachments/assets/cc5e0222-da1d-4431-afa5-9036b3b331d4" />
+  <img width="1493" height="759" alt="image" src="https://github.com/user-attachments/assets/ba7e367f-bafe-4a36-ba72-d7e42a920420" />
+  <img width="975" height="659" alt="image" src="https://github.com/user-attachments/assets/34c12f84-83bd-42de-a7a6-369d7553208e" />
+  <img width="1133" height="464" alt="image" src="https://github.com/user-attachments/assets/cbd5bde0-eba2-44e9-826a-41048bb673bf" />
+   <img width="975" height="524" alt="image" src="https://github.com/user-attachments/assets/12e33d04-75f2-455c-ab2e-ca8fa493a017" />
+   <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/bc122b7e-e541-44f8-bb51-2f475299e3e6" />
+
+
+  
+
 
 ## Technologies Used
 
